@@ -1,7 +1,7 @@
 ### Hi there 👋
 
 <h1 align="center">Hi 👋, I'm Vivien</h1>
-<h3 align="center">A diligent seeker, learner & inquirer into the truth</h3>
+<h3 align="center"> I think Coding is most profitable when it's most business-like</h3>
 
 - 🔭 I’m currently working on **a side project, building a fullstack webapp**
 
