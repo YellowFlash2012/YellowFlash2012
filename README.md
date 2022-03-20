@@ -1,11 +1,11 @@
 ### Hi there 👋
 
 <h1 align="center">Hi 👋, I'm Vivien</h1>
-<h3 align="center"> I think Coding is most profitable when it's most business-like</h3>
+<h3 align="center"> Doubtless, Coding is most profitable when it's most business-like</h3>
 
 - 🔭 I’m currently working on **a side project, building a fullstack webapp**
 
-- 🌱 I’m currently learning **node/express, python/flask, aws development, electron**
+- 🌱 I’m currently learning **react/node, python/flask, aws development, nextjs**
 
 - 👨‍💻 All of my projects are available at [https://github.com/YellowFlash2012](https://github.com/YellowFlash2012)
 
