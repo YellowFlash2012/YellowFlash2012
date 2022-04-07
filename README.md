@@ -1,11 +1,11 @@
 ### Hi there 👋
 
 <h1 align="center">Hi 👋, I'm Vivien</h1>
-<h3 align="center"> Doubtless, Coding is most profitable when it's most business-like</h3>
+<h3 align="center"> Genius is 1% inspiration and 99% perspiration!</h3>
 
 - 🔭 I’m currently working on **a side project, building a fullstack webapp**
 
-- 🌱 I’m currently learning **react/node, python/flask, aws development, nextjs**
+- 🌱 I’m currently learning **react-nextjs/node, graphql, python, TDD, aws development**
 
 - 👨‍💻 All of my projects are available at [https://github.com/YellowFlash2012](https://github.com/YellowFlash2012)
 
