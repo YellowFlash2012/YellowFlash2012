@@ -5,7 +5,7 @@
 
 - 🔭 I’m currently working on **a side project, building a fullstack webapp**
 
-- 🌱 I’m currently learning **react-nextjs/node, graphql, python, TDD, aws development**
+- 🌱 I’m currently learning **react-nextjs/node, graphql, python, devops, infosec**
 
 - 👨‍💻 All of my projects are available at [https://github.com/YellowFlash2012](https://github.com/YellowFlash2012)
 
